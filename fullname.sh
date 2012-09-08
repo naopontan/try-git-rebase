@@ -1,6 +1,8 @@
 #!/bin/bash
 # for Bash 4.0
 
+# hogehoge
+
 declare -A fullnames
 fullnames[ichiro]='Ichiro Suzuki'
 fullnames[tomohiro]='Tomohiro TAIRA'
